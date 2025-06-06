@@ -1,11 +1,11 @@
 {
     "id": "showshowway",
-    "version": "1.2.0",
-    "name": "ShowIt",
-    "description": "获取玩家的头，或者展示手上的物品",
-    "author": "WhiteXero",
+    "version": "1.3.0",
+    "name": "ShowIt-Reborn",
+    "description": "展示手上的物品",
+    "author": "laman28",
     "dependencies": {
 		"mcdreforged": ">=2.1.0"
 	},
-    "link": "https://github.com/WhiteXero/ShowIt"
+    "link": "https://github.com/Lone-Air/ShowIt"
 }
